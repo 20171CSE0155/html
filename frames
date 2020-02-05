@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>HTML Frames</title>
+</head>
+<frameset rows="10%,80%,100%">
+<frame name="top" src="/home/6CSE3/Downloads/crc.jpg"/>
+<frame name="main" src="/home/6CSE3/Downloads/crc.jpg"/>
+<frame name="bottom" src="/home/6CSE3/Downloads/crc.jpg"/>
+</frameset>
+</html>
+
