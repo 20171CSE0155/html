@@ -1,0 +1,26 @@
+
+<html>
+<head>
+<title>HTML iframes</title>
+</head>
+<body>
+<p>HELLO!
+</p>
+<marqueE direction="right">CHA....
+</MARQUEE>
+<h1 style="color:blue";>NS LOVER..</h1>
+<h1 style="text-allign:center;">RIDER<h1>
+<H1 STYLE="background_color:rgb(255,89,90);"...v46...</h2>
+<iframe src="/home/6CSE3/Downloads/cr(1).jpg" width="600" height="200"> doesnot suppport
+</iframes>
+<FONT SIZE="1">font size="1"</font><br/>
+<iframe src="/home/6CSE3/Downloads/crc.jpg"
+name="iframe_a"></iframe>
+<FONT SIZE="1">font size="1"</font><br/>
+<p><a href="https://www.google.com"
+target="iframe_a">Load new web page</a></p>
+<body>
+</html>
+
+	
+
